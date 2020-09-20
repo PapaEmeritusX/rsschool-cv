@@ -1,0 +1,33 @@
+
+a:link {
+    color: #5c5c8a; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #ad33ff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #5c0099;
+    background-color: transparent;
+    text-decoration: none;
+}
+  h1 {color:#6666ff;
+  	font-family:engravers mt
+  	font-size:20px;
+    text-align: center;
+
+  }
+img {width="100%";
+    
+}
